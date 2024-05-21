@@ -1,0 +1,7 @@
+env = "exam"
+aws_region = "eu-west-3"
+pim_cidr_block = "10.30.0.0/16"
+domain = "zorouk.local"
+pim_backup = "True"
+reverse_cidr_block = "0.0.30.10"
+key_name = "sunrise-cromwell"
